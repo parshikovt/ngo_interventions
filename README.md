@@ -10,3 +10,8 @@ Structure:
 - ML models.ipynb: notebook with basic ML models trainnig and evaluation
 - NGO_processing.ipynb: notebook with JSON data processing and feature extension for NGOs.
 - Train_dataset.ipynb: notebook with train and test datasets split for further model trainings.
+
+Link to the drive with datasets: https://drive.google.com/drive/folders/1EUsNuhESJB6UI4_XRnV0yPiV8PCxUB0H?usp=drive_link.
+Drive has the following structure:
+- JSONs: contains downloaded JSON files for different types of organisations. ICRC data has two files for each organisation with extended tweet data collection(Which was later implemented in other datasets collection, that have only 1 file per org).
+- CSV_files: contains processed data of related tweets from JSON files, with extended features.
